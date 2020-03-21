@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="99bb6d94-6a22-4138-ba70-475b9bc5ec20" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZR7KJM3aBhTZiEejIQSFqkPJeo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last.edited.regexp" value="" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.github.bloodnighttw.PDFEAnalysis.Main" />
+      <module name="EnAnalysis.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.github.bloodnighttw.PDFEAnalysis.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="99bb6d94-6a22-4138-ba70-475b9bc5ec20" name="Default Changelist" comment="" />
+      <created>1584789990404</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584789990404</updated>
+      <workItem from="1584789998840" duration="926000" />
+      <workItem from="1584791019844" duration="6770000" />
+      <workItem from="1584797857451" duration="3974000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="555" y="178" width="800" height="675" key="#Console" timestamp="1584793804265">
+      <screen x="0" y="0" width="1920" height="1033" />
+    </state>
+    <state x="555" y="178" width="800" height="675" key="#Console/0.0.1920.1033@0.0.1920.1033" timestamp="1584793804265" />
+    <state x="417" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584798223368">
+      <screen x="0" y="0" width="1920" height="1033" />
+    </state>
+    <state x="417" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1033@0.0.1920.1033" timestamp="1584798223368" />
+    <state x="742" y="50" width="424" height="582" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1584798165908">
+      <screen x="0" y="0" width="1920" height="1033" />
+    </state>
+    <state x="742" y="50" width="424" height="582" key="#com.intellij.ide.macro.MacrosDialog/0.0.1920.1033@0.0.1920.1033" timestamp="1584798165908" />
+    <state x="809" y="401" width="287" height="318" key="Github.ShareDialog" timestamp="1584802111041">
+      <screen x="0" y="0" width="1920" height="1033" />
+    </state>
+    <state x="809" y="401" width="287" height="318" key="Github.ShareDialog/0.0.1920.1033@0.0.1920.1033" timestamp="1584802111041" />
+    <state width="1866" height="331" key="GridCell.Tab.0.bottom" timestamp="1584801153237">
+      <screen x="0" y="0" width="1920" height="1033" />
+    </state>
+    <state width="1866" height="331" key="GridCell.Tab.0.bottom/0.0.1920.1033@0.0.1920.1033" timestamp="1584801153237" />
+    <state width="1866" height="331" key="GridCell.Tab.0.center" timestamp="1584801153237">
+      <screen x="0" y="0" width="1920" height="1033" />
+    </state>
+    <state width="1866" height="331" key="GridCell.Tab.0.center/0.0.1920.1033@0.0.1920.1033" timestamp="1584801153237" />
+    <state width="1866" height="331" key="GridCell.Tab.0.left" timestamp="1584801153236">
+      <screen x="0" y="0" width="1920" height="1033" />
+    </state>
+    <state width="1866" height="331" key="GridCell.Tab.0.left/0.0.1920.1033@0.0.1920.1033" timestamp="1584801153236" />
+    <state width="1866" height="331" key="GridCell.Tab.0.right" timestamp="1584801153237">
+      <screen x="0" y="0" width="1920" height="1033" />
+    </state>
+    <state width="1866" height="331" key="GridCell.Tab.0.right/0.0.1920.1033@0.0.1920.1033" timestamp="1584801153237" />
+    <state width="1866" height="331" key="GridCell.Tab.1.bottom" timestamp="1584801153238">
+      <screen x="0" y="0" width="1920" height="1033" />
+    </state>
+    <state width="1866" height="331" key="GridCell.Tab.1.bottom/0.0.1920.1033@0.0.1920.1033" timestamp="1584801153238" />
+    <state width="1866" height="331" key="GridCell.Tab.1.center" timestamp="1584801153238">
+      <screen x="0" y="0" width="1920" height="1033" />
+    </state>
+    <state width="1866" height="331" key="GridCell.Tab.1.center/0.0.1920.1033@0.0.1920.1033" timestamp="1584801153238" />
+    <state width="1866" height="331" key="GridCell.Tab.1.left" timestamp="1584801153237">
+      <screen x="0" y="0" width="1920" height="1033" />
+    </state>
+    <state width="1866" height="331" key="GridCell.Tab.1.left/0.0.1920.1033@0.0.1920.1033" timestamp="1584801153237" />
+    <state width="1866" height="331" key="GridCell.Tab.1.right" timestamp="1584801153238">
+      <screen x="0" y="0" width="1920" height="1033" />
+    </state>
+    <state width="1866" height="331" key="GridCell.Tab.1.right/0.0.1920.1033@0.0.1920.1033" timestamp="1584801153238" />
+    <state x="684" y="360" width="542" height="310" key="cloudConfig.PluginsDialog" timestamp="1584790277029">
+      <screen x="0" y="0" width="1920" height="1033" />
+    </state>
+    <state x="684" y="360" width="542" height="310" key="cloudConfig.PluginsDialog/0.0.1920.1033@0.0.1920.1033" timestamp="1584790277029" />
+    <state x="718" y="360" width="474" height="310" key="cloudConfig.SelfSettingsDialog" timestamp="1584790268151">
+      <screen x="0" y="0" width="1920" height="1033" />
+    </state>
+    <state x="718" y="360" width="474" height="310" key="cloudConfig.SelfSettingsDialog/0.0.1920.1033@0.0.1920.1033" timestamp="1584790268151" />
+    <state x="529" y="0" width="862" height="1033" key="find.popup" timestamp="1584798256735">
+      <screen x="0" y="0" width="1920" height="1033" />
+    </state>
+    <state x="529" y="0" width="862" height="1033" key="find.popup/0.0.1920.1033@0.0.1920.1033" timestamp="1584798256735" />
+    <state x="624" y="235" key="run.anything.popup" timestamp="1584794390555">
+      <screen x="0" y="0" width="1920" height="1033" />
+    </state>
+    <state x="624" y="235" key="run.anything.popup/0.0.1920.1033@0.0.1920.1033" timestamp="1584794390555" />
+  </component>
+</project>
