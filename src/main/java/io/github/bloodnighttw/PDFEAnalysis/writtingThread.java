@@ -1,20 +1,16 @@
 package io.github.bloodnighttw.PDFEAnalysis;
 
-import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
-import java.util.Arrays;
 import java.util.HashMap;
 
 public class writtingThread extends Thread {
 
-    private static String path;
     private static HashMap<String, Short> hmap;
     private static String[] st;
     private static int i = -1;
 
-    writtingThread(String path, HashMap hmap, String[] st) {
-        writtingThread.path = path;
+    writtingThread(HashMap<String,Short>  hmap, String[] st) {
         writtingThread.hmap = hmap;
         writtingThread.st = st;
     }

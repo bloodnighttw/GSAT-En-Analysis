@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="99bb6d94-6a22-4138-ba70-475b9bc5ec20" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/github/bloodnighttw/PDFEAnalysis/writtingThread.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
@@ -13,11 +10,6 @@
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/io/github/bloodnighttw/PDFEAnalysis/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/io/github/bloodnighttw/PDFEAnalysis/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/io/github/bloodnighttw/PDFEAnalysis/ReadFileThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/io/github/bloodnighttw/PDFEAnalysis/ReadFileThread.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/result.txt" beforeDir="false" afterPath="$PROJECT_DIR$/result.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/io/github/bloodnighttw/PDFEAnalysis/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/bloodnighttw/PDFEAnalysis/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/io/github/bloodnighttw/PDFEAnalysis/ReadFileThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/bloodnighttw/PDFEAnalysis/ReadFileThread.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +44,9 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last.edited.regexp" value="" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -89,11 +84,25 @@
       <workItem from="1584802018186" duration="695000" />
       <workItem from="1584840149186" duration="1403000" />
       <workItem from="1584841578575" duration="5070000" />
+      <workItem from="1584875307936" duration="1116000" />
     </task>
+    <task id="LOCAL-00001" summary="muilt thread and thread safe.">
+      <created>1584875397242</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1584875397242</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="muilt thread and thread safe." />
+    <option name="LAST_COMMIT_MESSAGE" value="muilt thread and thread safe." />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="555" y="178" width="800" height="675" key="#Console" timestamp="1584793804265">
@@ -112,10 +121,10 @@
       <screen x="0" y="0" width="1920" height="1033" />
     </state>
     <state x="691" y="125" width="525" height="431" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1033@0.0.1920.1033" timestamp="1584846540762" />
-    <state x="477" y="54" width="956" height="923" key="CommitChangelistDialog2" timestamp="1584841550541">
+    <state x="477" y="54" width="956" height="923" key="CommitChangelistDialog2" timestamp="1584875396428">
       <screen x="0" y="0" width="1920" height="1033" />
     </state>
-    <state x="477" y="54" width="956" height="923" key="CommitChangelistDialog2/0.0.1920.1033@0.0.1920.1033" timestamp="1584841550541" />
+    <state x="477" y="54" width="956" height="923" key="CommitChangelistDialog2/0.0.1920.1033@0.0.1920.1033" timestamp="1584875396428" />
     <state x="16" y="150" width="1720" height="833" key="DiffContextDialog" timestamp="1584846430705">
       <screen x="0" y="0" width="1920" height="1033" />
     </state>
@@ -128,22 +137,22 @@
       <screen x="0" y="0" width="1920" height="1033" />
     </state>
     <state x="809" y="401" width="287" height="318" key="Github.ShareDialog/0.0.1920.1033@0.0.1920.1033" timestamp="1584802111041" />
-    <state width="1866" height="804" key="GridCell.Tab.0.bottom" timestamp="1584846847732">
+    <state width="1866" height="631" key="GridCell.Tab.0.bottom" timestamp="1584877458547">
       <screen x="0" y="0" width="1920" height="1033" />
     </state>
-    <state width="1866" height="804" key="GridCell.Tab.0.bottom/0.0.1920.1033@0.0.1920.1033" timestamp="1584846847732" />
-    <state width="1866" height="804" key="GridCell.Tab.0.center" timestamp="1584846847732">
+    <state width="1866" height="631" key="GridCell.Tab.0.bottom/0.0.1920.1033@0.0.1920.1033" timestamp="1584877458547" />
+    <state width="1866" height="631" key="GridCell.Tab.0.center" timestamp="1584877458546">
       <screen x="0" y="0" width="1920" height="1033" />
     </state>
-    <state width="1866" height="804" key="GridCell.Tab.0.center/0.0.1920.1033@0.0.1920.1033" timestamp="1584846847732" />
-    <state width="1866" height="804" key="GridCell.Tab.0.left" timestamp="1584846847731">
+    <state width="1866" height="631" key="GridCell.Tab.0.center/0.0.1920.1033@0.0.1920.1033" timestamp="1584877458546" />
+    <state width="1866" height="631" key="GridCell.Tab.0.left" timestamp="1584877458546">
       <screen x="0" y="0" width="1920" height="1033" />
     </state>
-    <state width="1866" height="804" key="GridCell.Tab.0.left/0.0.1920.1033@0.0.1920.1033" timestamp="1584846847731" />
-    <state width="1866" height="804" key="GridCell.Tab.0.right" timestamp="1584846847732">
+    <state width="1866" height="631" key="GridCell.Tab.0.left/0.0.1920.1033@0.0.1920.1033" timestamp="1584877458546" />
+    <state width="1866" height="631" key="GridCell.Tab.0.right" timestamp="1584877458546">
       <screen x="0" y="0" width="1920" height="1033" />
     </state>
-    <state width="1866" height="804" key="GridCell.Tab.0.right/0.0.1920.1033@0.0.1920.1033" timestamp="1584846847732" />
+    <state width="1866" height="631" key="GridCell.Tab.0.right/0.0.1920.1033@0.0.1920.1033" timestamp="1584877458546" />
     <state width="1866" height="331" key="GridCell.Tab.1.bottom" timestamp="1584801153238">
       <screen x="0" y="0" width="1920" height="1033" />
     </state>
@@ -160,6 +169,14 @@
       <screen x="0" y="0" width="1920" height="1033" />
     </state>
     <state width="1866" height="331" key="GridCell.Tab.1.right/0.0.1920.1033@0.0.1920.1033" timestamp="1584801153238" />
+    <state x="443" y="94" width="1024" height="843" key="SettingsEditor" timestamp="1584875678253">
+      <screen x="0" y="0" width="1920" height="1033" />
+    </state>
+    <state x="443" y="94" width="1024" height="843" key="SettingsEditor/0.0.1920.1033@0.0.1920.1033" timestamp="1584875678253" />
+    <state x="555" y="251" width="800" height="529" key="Vcs.Push.Dialog.v2" timestamp="1584875409277">
+      <screen x="0" y="0" width="1920" height="1033" />
+    </state>
+    <state x="555" y="251" width="800" height="529" key="Vcs.Push.Dialog.v2/0.0.1920.1033@0.0.1920.1033" timestamp="1584875409277" />
     <state x="684" y="360" width="542" height="310" key="cloudConfig.PluginsDialog" timestamp="1584790277029">
       <screen x="0" y="0" width="1920" height="1033" />
     </state>

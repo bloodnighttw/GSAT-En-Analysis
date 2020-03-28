@@ -11,7 +11,7 @@ import java.util.regex.Pattern;
 
 public class ReadFileThread extends Thread{
 
-    static HashMap<String, Short> hmap = new HashMap();
+    static HashMap<String, Short> hmap = new HashMap<String,Short>();
     private String path = "file:/home/bbeenn1227/IdeaProjects/EnAnalysis/pdfex.pdf";
     static int nowRunnung = 0;
     private String[] st = null;
@@ -134,7 +134,7 @@ public class ReadFileThread extends Thread{
 
     private synchronized void startWritting() {
 
-        new writtingThread(path, hmap, st).start();
+        new writtingThread( hmap, st).start();
         try {
             sleep(2);
         } catch (InterruptedException e) {
