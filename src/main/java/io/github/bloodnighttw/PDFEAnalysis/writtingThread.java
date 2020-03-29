@@ -20,7 +20,7 @@ public class writtingThread extends Thread {
 
         //String[] st = hmap.keySet().toArray(new String[0]);
         //Arrays.sort(st);
-
+        
 
         FileWriter fileWriter = null;
         try {
@@ -43,6 +43,8 @@ public class writtingThread extends Thread {
             }
 
         }
+
+        
 
         try {
             fileWriter.close();
